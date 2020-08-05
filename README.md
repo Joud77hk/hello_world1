@@ -1,2 +1,6 @@
 # hello_world1
-Jus
+
+Hi I'm Joud
+
+
+I Really Like Computer Science
